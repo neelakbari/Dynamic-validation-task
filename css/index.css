@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mb-3.success input{
+    border: 3px solid    green;
+}
+.mb-3.success small{
+    color: green;
+}
+.mb-3.error input{
+    border: 3px solid    red;
+}
+.mb-3.error small{
+    color: red;
+}
